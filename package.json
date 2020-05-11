@@ -1,0 +1,19 @@
+{
+  "name": "gatsby-plugin-hello-dev",
+  "version": "0.1.1",
+  "description": "Gatsby plugin to add an HTML comment to the top of your pages greeting developers who view source of your site.",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "developer greeting",
+    "html comments",
+    "comment"
+  ],
+  "author": "Chad Lee <npm@chadly.net>",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chadly/gatsby-plugin-hello-dev.git"
+  }
+}
